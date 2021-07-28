@@ -6,6 +6,7 @@ I'm a:
 - 🥦 Google Summer 2020 STEP intern
 - 💚 Fan of discrete mathematics
 
-🐷 Currently learning RL & Calculus.
+🐷 Currently learning RL
+No more Calculus!!!!!!
 
 Btw sometimes I joke funny.
