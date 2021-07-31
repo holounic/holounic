@@ -7,6 +7,7 @@ I'm a:
 - 💚 Fan of discrete mathematics
 
 🐷 Currently learning RL
+
 No more Calculus!!!!!!
 
 Btw sometimes I joke funny.
