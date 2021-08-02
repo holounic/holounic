@@ -8,6 +8,6 @@ I'm a:
 
 🐷 Currently learning RL
 
-No more Calculus!!!!!!
+😎 No more Calculus!!!!!!
 
 Btw sometimes I joke funny.
