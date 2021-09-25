@@ -5,8 +5,7 @@ I'm a:
 - 🦄 Jetbrains Deep RL intern
 - 🥦 Google Summer 2020 STEP intern
 - 💚 Fan of discrete mathematics
-
-🐷 Currently learning RL
+- 🐷 Currently making RL great (and work) 
 
 😎 No more Calculus!!!!!!
 
