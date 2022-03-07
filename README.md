@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a:
-- 🌈 Third-year CS student at ITMO University
+- 🌈 Third-year CS student
 - 🦄 Jetbrains Deep RL intern October 2020 - January 2022
 - 🥦 Google Summer 2020 STEP intern
 - 💚 Fan of discrete mathematics
