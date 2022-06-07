@@ -8,6 +8,5 @@ I'm a:
 - 💚 Fan of discrete mathematics
 - 🐷 Currently making RL great (and work) 
 
-😎 No more Calculus!!!!!!
 
 Btw sometimes I joke funny.
