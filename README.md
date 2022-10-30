@@ -7,7 +7,8 @@ I'm a:
 - 🦄 Jetbrains Deep RL intern October 2020 - January 2022
 - 🥦 Google Summer 2020 STEP intern
 - 💚 Fan of discrete mathematics
-- 🐷 Currently making RL great (and work) 
+- 🌻 Currently writing thesis on Bayesian optimization
+- 🐷 Aiming to make RL great (and work) 
 
 
 Btw sometimes I joke funny.
