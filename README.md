@@ -8,7 +8,7 @@ I'm a:
 - 🥦 Google Summer 2020 STEP intern
 - 💚 Fan of discrete mathematics
 - 🌻 Currently writing thesis on Bayesian optimization
-- 🐷 Aiming to make RL great (and work) 
+- 🐷 RL works! 
 
 
 Btw sometimes I joke funny.
