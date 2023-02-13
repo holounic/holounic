@@ -2,7 +2,7 @@
 
 I'm a:
 - 🌈 Fourth-year CS student 
-- 🌯 Google SWE intern October 2022 - Present
+- 🌯 Google SWE intern October 2022 - February 2023
 - 🦏 Yandex Middle Java Developer April 2022 - September 2022
 - 🦄 Jetbrains Deep RL intern October 2020 - January 2022
 - 🥦 Google Summer 2020 STEP intern
