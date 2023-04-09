@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a:
+- 🚘 DeepMind Research Engineer intern April 2023 - current
 - 🌈 Fourth-year CS student 
 - 🌯 Google SWE intern October 2022 - February 2023
 - 🦏 Yandex Middle Java Developer April 2022 - September 2022
