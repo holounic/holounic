@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a:
+- 🗺️ Research Engineer @ Google DeepMind
 - 🌈 Bs in Applied Mathematics & CS @ ITMO University
 - 🚘 DeepMind Research Engineer intern April 2023 - September 2023
 - 🌯 Google SWE intern October 2022 - February 2023
